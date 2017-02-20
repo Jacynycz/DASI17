@@ -14,9 +14,9 @@ Con respecto a los sistemas multi-agente, un agente cognitivo es aquel que puede
 
 ### ¿Cuál es la diferencia entre datos, infomación y conocimiento?
 
-- Datos:
-- Información:
-- Conocimiento:
+- Información: Noticas que informan acerca de algo
+- Datos: Información concreta sobre cosas específicas
+- Conocimiento: Datos ya coconidos previamente antes de que se presente un problema o situación
 
 ## Desarrollo de la primera práctica con ICARO
 
@@ -25,3 +25,10 @@ Durante el comienzo del desarrollo de la práctica tuvimos muchos problemas para
 - No pasar argumentos para ejecutarlos
 - Importación errónea
 - No se visualizaban correctamente los agentes
+- Las rutas de los xml estaban mal puestas
+
+Después de una correcta configuración, hemos conseguido importar el proyecto correctamente y hemos podido ejecutar el código con éxito.
+
+## Conclusión
+
+Como objetivo de la sesión hemos logrado descargar el framework que nos han dado en portátiles diferentes y ejecutar el código proporcionado de manera satisfactoria.
