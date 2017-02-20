@@ -13,6 +13,6 @@ Miguel de Andrés Herrero
 
 ### Resto de Integrantes
 
--Meriem El Yamri
--Rodrigo Crespo
--Carlos Congosto
+- Meriem El Yamri
+- Rodrigo Crespo
+- Carlos Congosto
